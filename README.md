@@ -8,6 +8,7 @@ Day 6: Project / Pending
 Day 7: Project / Hangman 
 Day 8: Project / Caesar Cipher
 Day 9: Project / Secret Auction Program
+Day 10: Project / Calculator
 
 ## READ ME
 I want to clarify that all my projects have been written down by me not AI.
